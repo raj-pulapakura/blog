@@ -61,7 +61,7 @@ export default function BlogPost({post}) {
             <div className="flex gap-x-4 mb-10">
                         {post.tags.map(tag => <p className=" bg-gray-100 p-1 rounded-md">{tag}</p>)}
                     </div>
-            <div className="text-lg leading-10" dangerouslySetInnerHTML={{__html: post.content.html}}></div>
+            <div className="leading-10" dangerouslySetInnerHTML={{__html: post.content.html}}></div>
         </section>
       </>
     );
