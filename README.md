@@ -1,5 +1,5 @@
 # Hi there!
 
-## This is the code for my personal blog, Rablog.
+## This is the code for my personal blog, where I talk about my life and AI.
 
-## You can visit it at: https://blog-rho-steel.vercel.app/
+## You can visit it at: https://rablog.vercel.app/
